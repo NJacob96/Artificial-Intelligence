@@ -1,5 +1,7 @@
 Machine Learning – Sentiment Analysis
 
+The folder contains the Native Bayes test on Article Detection to determine Fake or Real News. The data was over the exceeded sze: 110 MB from kaggle. It also include the final write on the research paper on the investigation on detecting fake news.
+
 Looking at important information on the structure of the classification algorithm naïve bayes and the types of features utilize in running fake news detection. 
 
 Run the Bayes.py file contians the Native Bayes classficaiton Algorithm 
